@@ -10,7 +10,7 @@ def my_function(decision, current_health):
         elif current_health < 100:
             current_health = current_health + 20
             print("Health +20")
-    elif decision == 2:
+    if decision == 2:
         current_health = current_health - 20
         if current_health == 0:
             print("You died")
