@@ -1,3 +1,6 @@
+#Steven Herrera
+#BSCpe 1A
+#26-00320
 #bad apple
 
 health = 100
